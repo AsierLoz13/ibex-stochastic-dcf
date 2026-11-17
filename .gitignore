@@ -1,0 +1,26 @@
+# --- Entorno virtual (se regenera con requirements.txt) ---
+.venv/
+venv/
+env/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Datos intermedios / caché (los datos brutos SÍ se versionan) ---
+data/cache/
+
+# --- Sistema operativo / editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# --- Secretos (por si algún día usamos una API key) ---
+.env
