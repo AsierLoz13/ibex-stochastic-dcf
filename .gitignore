@@ -24,3 +24,6 @@ desktop.ini
 
 # --- Secretos (por si algún día usamos una API key) ---
 .env
+
+# --- Large source documents (re-downloadable from the URLs in data/README.md) ---
+data/raw/*.pdf

@@ -1,0 +1,622 @@
+period,statement,line_item,value,unit,source
+2019,PL,Revenue,3203.939,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,In-house work on non-current assets and other income,90.929,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Materials used and other supplies and other operating expenses,-1189.519,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Staff Costs,-1757.701,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Other gains or losses on non-current assets and other results,-1.402,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Gross Operating Profit (EBITDA),346.24600000000015,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Depreciation and amortisation charge,-125.224,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Profit (Loss) from operations (EBIT),221.02200000000016,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,EBIT Margin,0.06898445944195572,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Financial Loss,-44.19,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Result of companies accounted for using the equity method,0.731,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Profit (Loss) before tax,177.56300000000016,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Income tax,-51.461,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Profit (Loss) for the year,126.10200000000016,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Profit (Loss) attributable to non-controlling interests,-4.738,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,PL,Profit (Loss) attributable to the Parent,121.36400000000016,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,"Property, plant and equipment",117.163,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Property investments,1.302,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Assets for the rigth of use,129.592,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Other Intangible assets,372.585,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Investments for using the equity method and other non-current financial assets,218.224,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Goodwill,884.911,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Deferred tax assets,151.095,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Total non-current assets,1874.872,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Assets classified as held for sale,13.378,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Operating current assets,1445.416,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Other current assets,128.29500000000002,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Cash and cash equivalents,854.509,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Total current assets,2441.598,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,TOTAL ASSETS,4316.47,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Share Capital and Reserves,780.073,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Treasury shares,-2.788,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Equity attributable to parent company,777.285,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Non-controlling interests,23.468,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,TOTAL EQUITY,800.7529999999999,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Provisions for contingencies and charges,55.209,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,"Bank borrowings and financial liabilities relating to issues of debt
+instruments and other marketable securities",1379.555,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Other non-current financial liabilities,202.51500000000001,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Deferred tax liabilities,1.601,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Other non-current  liabilities,13.833,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Total Non-current liabilities,1652.7130000000004,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Liabilities classified as held for sale,0.002,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,"Current bank borrowings and financial liabilities relating to
+issues of debt instruments and other marketable securities",26.709,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Other current financial liabilities,85.247757,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Operating current liabilities,1396.962,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Other current liabilities,354.083243,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Total Current liabilities,1863.004,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,TOTAL EQUITY AND LIABILITIES,4316.47,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,"Current bank borrowings and financial liabilities relating
+to issues of debt instruments and other marketable securities",-26.709,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,"Bank borrowings and financial liabilities relating to issues
+of debt instruments and other marketable securities",-1379.555,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Gross financial debt,-1406.2640000000001,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Cash and cash equivalents,854.509,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,BS,Net Debt,-551.7550000000001,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Profit Before Tax,177.563,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Adjusted for:,0.0,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,- Depreciation and amortization charge,125.224,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,"- Provisions, capital grants and others",-29.622,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,- Result of companies accounted for using the equity method,-0.731,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,- Financial loss,44.191,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Dividends received,0.343,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Profit (Loss) from operations before changes in working capital,316.968,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Changes in trade receivables and other items,36.867999999999995,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Changes in inventories,-100.658,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Changes in trade payables and other items,-67.194,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Cash flows from operating activities,-130.984,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Tangible (net),-30.816,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Intangible (net),-45.19,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Capex,-76.006,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Interest paid and received,-30.606,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Income tax paid,-36.481,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Other financial liabilities variation,-35.351,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Free Cash Flow,7.5400000000000205,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Changes in other financial assets,-5.535,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Financial investments/divestments,-68.546,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Dividends paid by companies to non-controlling shareholders,0.0,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Dividends of the parent company,0.0,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Shareholders contributions,0.0,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Changes in treasury shares,1.187,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Cash-flow provided/(used) in the period,-65.35399999999998,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Initial Net Debt,-483.1709999999998,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Cash-flow provided/(used) in the period,-65.35399999999998,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Foreign exchange differences and variation with no impact in cash,-3.230000000000018,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2019,CF,Final Net Debt,-551.7549999999999,EUR m,pg_bs_cf_fy19_eng_web-envio.xls
+2020,PL,Revenue,3043.408,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,In-house work on non-current assets and other income,69.506,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Materials used and other supplies and other operating expenses,-1107.762,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Staff Costs,-1877.868,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Other gains or losses on non-current assets and other results,-49.89,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Gross Operating Profit (EBITDA),77.39399999999988,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Depreciation and amortisation charge,-110.279,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Profit (Loss) from operations (EBIT),-32.88500000000012,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,EBIT Margin,-0.010805320877122002,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Financial Loss,-41.126,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Result of companies accounted for using the equity method,1.598,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Profit (Loss) before tax,-72.41300000000011,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Income tax,14.946,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Profit (Loss) for the year,-57.46700000000011,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Profit (Loss) attributable to non-controlling interests,-7.686,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Profit (Loss) attributable to the Parent,-65.1530000000001,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,PL,Net Profit Recurrent,0.0,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,"Property, plant and equipment",96.23555999999999,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Property investments,1.207,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Assets for the rigth of use,119.47330000000001,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Other Intangible assets,278.87746999999996,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Investments for using the equity method and other non-current financial assets,259.956,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Goodwill,889.489,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Deferred tax assets,199.115,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Total non-current assets,1844.3533300000001,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Assets classified as held for sale,9.562,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Operating current assets,1291.969,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Other current assets,132.166,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Cash and cash equivalents,1184.853,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Total current assets,2618.55,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,TOTAL ASSETS,4462.90333,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Share Capital and Reserves,668.54961,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Treasury shares,-3.768,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Equity attributable to parent company,664.78161,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Non-controlling interests,19.098,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,TOTAL EQUITY,683.87961,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Provisions for contingencies and charges,65.931,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,"Bank borrowings and financial liabilities relating to issues of debt
+instruments and other marketable securities",1372.827,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Other financial liabilities,224.51899999999998,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Deferred tax liabilities,1.473,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Other non-current financial liabilities,29.033,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Total Non-current liabilities,1693.783,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Liabilities classified as held for sale,0.002,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,"Current bank borrowings and financial liabilities relating to
+issues of debt instruments and other marketable securities",293.412,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Other current financial liabilities,74.966678,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Operating current liabilities,1365.392,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Other current liabilities,351.46732199999997,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Total Current liabilities,2085.24,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,TOTAL EQUITY AND LIABILITIES,4462.902609999999,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,"Current bank borrowings and financial liabilities relating
+to issues of debt instruments and other marketable securities",-293.412,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,"Bank borrowings and financial liabilities relating to issues
+of debt instruments and other marketable securities",-1372.827,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Gross financial debt,-1666.239,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Cash and cash equivalents,1184.853,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,BS,Net Debt,-481.38599999999997,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Profit Before Tax,-72.413,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,- Depreciation and amortization charge,110.279,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,"- Provisions, capital grants and others",111.756,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,- Result of companies accounted for using the equity method,-1.598,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,- Financial loss,41.127,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Dividends received,2.164,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Profit (Loss) from operations before changes in working capital,191.315,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Changes in trade receivables and other items,186.262,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Changes in inventories,-28.236,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Changes in trade payables and other items,-115.342,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Cash flows from operating activities,42.68400000000001,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Tangible (net),-19.251,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Intangible (net),-19.995,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Capex,-39.246,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Interest paid and received,-36.615,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Other financial liabilities variation,-36.901,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Income tax paid,-38.147,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Free Cash Flow,83.09000000000003,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Changes in other financial assets,0.0,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Financial investments/divestments,10.549,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Dividends paid by companies to non-controlling shareholders,-5.484,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Dividends of the parent company,0.0,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Shareholders contributions,0.0,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Changes in treasury shares,-2.327,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Cash-flow provided/(used) in the period,85.82800000000005,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Initial Net Debt,-551.7550000000001,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Cash-flow provided/(used) in the period,85.82800000000005,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Foreign exchange differences and variation with no impact in cash,-15.45899999999989,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2020,CF,Final Net Debt,-481.38599999999997,EUR m,pg_bs_cf_fy20_eng_web-envio.xls
+2021,PL,Revenue,3390.425,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,In-house work on non-current assets and other income,55.59,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Materials used and other supplies and other operating expenses,-1237.416,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Staff Costs,-1872.481,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Other gains or losses on non-current assets and other results,12.945,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Gross Operating Result (EBITDA),349.06300000000016,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Depreciation and amortisation charge,-93.534,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Operating Result (EBIT),255.52900000000017,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,EBIT Margin,0.07536783736552206,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Financial Loss,-44.6355,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Result of companies accounted for using the equity method,0.5475,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Profit (Loss) before tax,211.44100000000017,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Income tax,-65.408,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Profit (Loss) for the year,146.0330000000002,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Profit (Loss) attributable to non-controlling interests,-2.664,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Profit (Loss) attributable to the Parent,143.3690000000002,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,PL,Net Profit Recurrent,0.0,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,"Property, plant and equipment",78.103,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Property investments,1.12,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Assets for the rigth of use,98.808,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Goodwill,921.392,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Other Intangible assets,273.987,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Investments using the equity method and other non-current financial assets,222.755,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Deferred tax assets,182.466,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Total non-current assets,1778.6309999999999,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Assets held for sale,9.762,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Operating current assets,1367.164,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Other current assets,144.554,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Cash and cash equivalents,1235.025,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Total current assets,2756.505,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,TOTAL ASSETS,4535.136,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Share Capital and Reserves,825.031,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Treasury shares,-4.862,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Equity attributable to parent company,820.169,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Non-controlling interests,20.973,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,TOTAL EQUITY,841.1419999999999,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Provisions for contingencies and charges,67.872,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,1436.019,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Other non-current financial liabilities,386.42699999999996,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Subsidies,27.431,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Other non-current liabilities,0.421,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Deferred tax liabilities,2.188,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Total Non-current liabilities,1920.3580000000002,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Liabilities classified as held for sale,0.002,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,39.431,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Other current financial liabilities,54.583,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Operating current liabilities,1329.089,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Other current liabilities,350.531,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Total Current liabilities,1773.636,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,TOTAL EQUITY AND LIABILITIES,4535.136,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,-39.431,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,-1436.019,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Gross financial debt,-1475.45,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Cash and cash equivalents,1235.025,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,BS,Net Debt,-240.42499999999995,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Profit Before Tax,211.441,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,- Depreciation and amortization charge,93.534,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,"- Provisions, capital grants and others",-15.628,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,- Result of companies accounted for using the equity method,-0.548,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,- Financial loss,44.636,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Dividends received,1.874,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Profit (Loss) from operations before changes in working capital,335.3090000000001,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Changes in trade receivables and other items,19.516,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Changes in inventories,78.894,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Changes in trade payables and other items,-43.079,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Cash flows from operating activities,55.330999999999996,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Tangible (net),25.858,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Intangible (net),-14.403,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Capex,11.455,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Interest paid and received,-33.469,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Other financial liabilities variation (1),-33.667,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Income tax paid,-46.004,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Free Cash Flow,288.9550000000001,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Changes in other financial assets,0.0,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Financial investments/divestments,-41.437,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Dividends paid by companies to non-controlling shareholders,-1.17,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Dividends of the parent company,0.0,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Shareholders contributions,0.0,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Changes in treasury shares,-4.841,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Cash-flow provided/(used) in the period,241.5070000000001,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Initial Net Debt,-481.38599999999997,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Cash-flow provided/(used) in the period,241.5070000000001,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Foreign exchange differences and variation with no impact in cash,-0.5460000000000775,EUR m,pg_bs_cf_fy21_eng_web.xls
+2021,CF,Final Net Debt,-240.42499999999995,EUR m,pg_bs_cf_fy21_eng_web.xls
+2023,PL,Revenue,4343.071639197708,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,In-house work on non-current assets and other income,73.89120539087912,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Materials used and other supplies and other operating expenses,-1566.518953517541,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Staff Costs,-2403.4161788422307,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Other gains or losses on non-current assets and other results,-0.964973277132824,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Gross Operating Result (EBITDA),446.06273895168204,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Depreciation and amortisation charge,-99.070293115955,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Operating Result (EBIT),346.99244583572704,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,EBIT Margin,0.07989563025025917,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Financial Loss,-40.180829296591014,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Result of companies accounted for using the equity method,-3.2202798600000007,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Profit (Loss) before tax,303.591336679136,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Income tax,-94.8960449819565,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Profit (Loss) for the year,208.69529169717953,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Profit (Loss) attributable to non-controlling interests,-2.9442600331742,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Profit (Loss) attributable to the Parent,205.75103166400532,EUR m,pg_bs_cf_fy23_eng.xls
+2023,PL,Net Profit Recurrent,0.0,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,"Property, plant and equipment",99.14296636026741,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Property investments,11.708234875815887,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Assets for the rigth of use,119.025,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Goodwill,996.37392782,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Other Intangible assets,263.8265280169257,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Investments using the equity method and other non-current financial assets,520.4203151536467,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Deferred tax assets,118.10889330956644,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Total non-current assets,2128.605865536222,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Assets held for sale,0.10794129000000004,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Operating current assets,1762.147854495176,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Other current assets,235.98747133354496,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Cash and cash equivalents,595.7412980878136,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Total current assets,2593.9845652065346,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,TOTAL ASSETS,4722.590430742757,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Share Capital and Reserves,1150.4668728921065,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Treasury shares,-32.95989761,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Equity attributable to parent company,1117.5069752821064,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Non-controlling interests,18.461260269371,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,TOTAL EQUITY,1135.9682355514774,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Provisions for contingencies and charges,71.92377125501294,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,479.06263351,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Other non-current financial liabilities,696.4271738049324,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Subsidies,43.39069009000001,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Other non-current liabilities,1.2855800897252947,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Deferred tax liabilities,4.140353843409468,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Total Non-current liabilities,1296.23020259308,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Liabilities classified as held for sale,0.0015799100000000001,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,223.52813057999802,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Other current financial liabilities,113.87446985921076,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Operating current liabilities,1479.5988318717991,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Other current liabilities,473.3886312988319,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Total Current liabilities,2290.39164351984,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,TOTAL EQUITY AND LIABILITIES,4722.590081664397,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,-223.52813057999802,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,-479.06263351,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Gross financial debt,-702.5907640899981,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Cash and cash equivalents,595.7412980878136,EUR m,pg_bs_cf_fy23_eng.xls
+2023,BS,Net Debt,-106.8494660021845,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Profit Before Tax,303.59133667913545,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,- Depreciation and amortization charge,99.070293115955,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,"- Provisions, capital grants and others",-2.289,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,- Result of companies accounted for using the equity method,3.22,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,- Financial loss,40.182,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Dividends received,0.06633314,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Profit (Loss) from operations before changes in working capital,443.8409629350905,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Changes in trade receivables and other items,37.33099259022495,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Changes in inventories,-116.406,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Changes in trade payables and other items,93.161,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Cash flows from operating activities,14.085992590224947,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Tangible (net),-22.988218571621154,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Intangible (net),7.466306876413102,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Capex,-15.52191169520805,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Interest paid and received,-18.90001561121834,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Other financial liabilities variation,-32.692521,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Income tax paid,-78.406,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Free Cash Flow,312.40650721888903,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Changes in other financial assets,0.0,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Financial investments/divestments,-284.155,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Dividends paid by companies to non-controlling shareholders,-0.980736961577,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Dividends of the parent company,-44.093602999999995,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Shareholders contributions,0.0,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Changes in treasury shares,-32.50427518748434,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Cash-flow provided/(used) in the period,-49.327107930172275,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Initial Net Debt,-42.59699999999998,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Cash-flow provided/(used) in the period,-49.327107930172275,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Foreign exchange differences and variation with no impact in cash,-14.925241172612317,EUR m,pg_bs_cf_fy23_eng.xls
+2023,CF,Final Net Debt,-106.84934910278457,EUR m,pg_bs_cf_fy23_eng.xls
+2024,PL,Revenue,4842.857,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,In-house work on non-current assets and other income,104.14649422793018,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Materials used and other supplies and other operating expenses,-1790.545546183794,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Staff Costs,-2610.9425941045843,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Other gains or losses on non-current assets and other results,-0.30927620854684,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Gross Operating Result (EBITDA),545.206077731005,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Depreciation and amortisation charge,-106.94980239279911,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Operating Result (EBIT),438.2562753382059,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,EBIT Margin,0.09049539875701593,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Financial Loss,-46.52506299341467,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Result of companies accounted for using the equity method,-5.4704,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Profit (Loss) before tax,386.26081234479125,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Income tax,-105.98087953487713,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Profit (Loss) for the year,280.2799328099141,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Profit (Loss) attributable to non-controlling interests,-2.7391295949652004,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Profit (Loss) attributable to the Parent,277.5408032149489,EUR m,pg_bs_cf_2024_eng.xls
+2024,PL,Net Profit Recurrent,0.0,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,"Property, plant and equipment",118.76470256904135,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Property investments,9.600857500829175,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Assets for the rigth of use,125.861,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Goodwill,1043.48952611,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Other Intangible assets,250.45014462848158,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Investments using the equity method and other non-current financial assets,485.52819325238494,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Deferred tax assets,104.17379542865406,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Total non-current assets,2137.8682194893913,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Assets held for sale,213.69616143,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Operating current assets,1791.8013230004226,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Other current assets,257.17103415247317,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Cash and cash equivalents,555.1471806952488,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Total current assets,2817.815699278145,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,TOTAL ASSETS,4955.683918767536,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Share Capital and Reserves,1309.7919345606838,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Treasury shares,-12.63486517,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Equity attributable to parent company,1297.1570693906838,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Non-controlling interests,17.5500236,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,TOTAL EQUITY,1314.7070929906838,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Provisions for contingencies and charges,87.52465366379913,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,343.17633736,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Other non-current financial liabilities,692.0448739843339,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Subsidies,54.147155430000005,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Other non-current liabilities,1.3700769226170042,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Deferred tax liabilities,3.945049426720342,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Total Non-current liabilities,1182.2081467874705,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Liabilities classified as held for sale,83.69927206999999,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,186.3364904385648,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Other current financial liabilities,119.3425965733132,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Operating current liabilities,1626.916207858491,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Other current liabilities,442.4737306640951,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Total Current liabilities,2458.768297604464,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,TOTAL EQUITY AND LIABILITIES,4955.683537382618,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,186.3364904385648,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,343.17633736,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Gross financial debt,529.5128277985648,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Cash and cash equivalents,-555.1471806952488,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Net Debt before transfer to held-for-sale,-25.63435289668405,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Effective transfer to held-for-sale,-60.84043911407218,EUR m,pg_bs_cf_2024_eng.xls
+2024,BS,Total Group Net Debt,-86.47479201075623,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Profit Before Tax,386.2608123447908,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,- Depreciation and amortization charge,106.94980239279911,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,"- Provisions, capital grants and others",-3.7101999999999986,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,- Result of companies accounted for using the equity method,5.4704,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,- Financial loss,46.525,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Dividends received,0.0,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Profit (Loss) from operations before changes in working capital,541.49581473759,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Changes in trade receivables and other items,110.0796,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Changes in inventories,-125.854,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Changes in trade payables and other items,10.329,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Cash flows from operating activities,-5.445399999999999,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Tangible (net),-23.302312840625902,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Intangible (net),-46.074297822968376,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Capex,-69.37661066359428,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Interest paid and received,-25.78042244216947,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Other financial liabilities variation,-27.699,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Income tax paid,-85.155,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Free Cash Flow,328.03938163182625,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Changes in other financial assets,0.0,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Financial investments/divestments,-31.416557,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Dividends paid by companies to non-controlling shareholders,-2.6893866877886556,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Dividends of the parent company,-44.099678,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Shareholders contributions,0.0,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Changes in treasury shares,-28.767478893964977,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Cash-flow provided/(used) in the period,221.0662810500726,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Initial Net Debt,106.8494660021845,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Cash-flow provided/(used) in the period,-221.0662810500726,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Foreign exchange differences and variation with no impact in cash,27.742023037131872,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Final Net Debt,-86.47479201075623,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Cash & cash equivalents at the beginning of the period,-595.7412984295895,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Foreign exchange differences,15.015359025857737,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Increase (decrease) in borrowings,185.80460064448334,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Net change in cash and cash equivalents,-221.0662810500726,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Ending balance of cash and cash equivalents,-615.987619809321,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Long term and current borrowings,529.5128277985648,EUR m,pg_bs_cf_2024_eng.xls
+2024,CF,Final Net Debt (+) Net Cash (-),-86.47479201075623,EUR m,pg_bs_cf_2024_eng.xls
+2025,PL,Revenue,5456.652456649324,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,In-house work on non-current assets and other income,155.6110294372835,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Materials used and other supplies and other operating expenses,-2152.2923151956775,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Staff Costs,-2823.3098500888814,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Other gains or losses on non-current assets and other results,-0.28060427240108893,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Gross Operating Result (EBITDA),636.3807165296483,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Depreciation and amortisation charge,-119.03456915781798,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Operating Result (EBIT),517.3461473718304,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,EBIT Margin,0.09481017005974181,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Financial Loss,72.0901390302678,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Result of companies accounted for using the equity method,-3.1656496400000003,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Profit (Loss) before tax,586.2706367620982,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Income tax,-147.29261055958915,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Profit (Loss) for the year,438.97802620250906,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Profit (Loss) attributable to non-controlling interests,-3.1491256000000005,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Profit (Loss) attributable to the Parent,435.82890060250907,EUR m,PG_BS_CF_2025_eng.xls
+2025,PL,Net Profit Recurrent,0.0,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,"Property, plant and equipment",1145.909,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Property investments,9.283789120721854,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Assets for the rigth of use,162.026,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Goodwill,1443.56855066,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Other Intangible assets,459.504,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Investments using the equity method and other non-current financial assets,1391.1172145033033,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Deferred tax assets,43.328144221381336,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Total non-current assets,4654.736698505407,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Assets held for sale,120.52295570999999,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Operating current assets,2966.3758497496347,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Other current assets,416.9571969025798,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Cash and cash equivalents,976.1916500467933,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Total current assets,4480.047652409008,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,TOTAL ASSETS,9134.784350914415,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Share Capital and Reserves,1826.1693630434027,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Treasury shares,-65.15837716,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Equity attributable to parent company,1761.0109858834026,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Non-controlling interests,258.58308572,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,TOTAL EQUITY,2019.5940716034024,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Provisions for contingencies and charges,98.44748883850278,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,1197.2242834,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Other non-current financial liabilities,2027.7300805986947,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Subsidies,134.72095493999998,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Other non-current liabilities,1.0015594614358998,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Deferred tax liabilities,58.615129711146636,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Total Non-current liabilities,3517.73949694978,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Liabilities classified as held for sale,50.248692999999996,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,385.91671252631943,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Other current financial liabilities,188.84933445757284,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Operating current liabilities,2259.816910987432,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Other current liabilities,712.618664586491,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Total Current liabilities,3597.450315557815,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,TOTAL EQUITY AND LIABILITIES,9134.783884110997,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,385.91671252631943,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,1197.2242834,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Gross financial debt,1583.1409959263196,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Cash and cash equivalents,-976.1916500467933,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Net Debt before transfer to held-for-sale,606.9493458795264,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Effective transfer to held-for-sale,-23.714367088212043,EUR m,PG_BS_CF_2025_eng.xls
+2025,BS,Total Group Net Debt,583.2349787913143,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Profit Before Tax,586.2706367620976,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,- Depreciation and amortization charge,119.03456915781798,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,"- Provisions, capital grants and others",-49.44,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,- Result of companies accounted for using the equity method,3.166,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,- Financial loss,-72.09,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Dividends received,0.0,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Profit (Loss) from operations before changes in working capital,586.9412059199155,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Changes in trade receivables and other items,-314.313,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Changes in inventories,-150.199,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Changes in trade payables and other items,527.2480606992599,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Cash flows from operating activities,62.736060699259895,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Tangible (net),-44.078,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Intangible (net),-52.97407263,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Capex,-97.05207263,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Interest paid and received,-25.009974329636588,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Other financial liabilities variation,-29.888190119999997,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Income tax paid,-133.44,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Free Cash Flow,364.28702953953893,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Changes in other financial assets,0.0,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Financial investments/divestments,-807.931416,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Dividends paid by companies to non-controlling shareholders,-3.1602821600000004,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Dividends of the parent company,-43.923,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Shareholders contributions,0.0,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Changes in treasury shares,-30.7361959446554,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Cash-flow provided/(used) in the period,-521.4638645651165,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Initial Net Debt,-86.47479201075623,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Cash-flow provided/(used) in the period,521.4638645651165,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Foreign exchange differences and variation with no impact in cash,148.24590623695406,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Final Net Debt,583.2349787913143,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Cash & cash equivalents at the beginning of the period,-615.988,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Foreign exchange differences,12.360865,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Increase (decrease) in borrowings,-917.7427467001219,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Net change in cash and cash equivalents,521.4638645651165,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Ending balance of cash and cash equivalents,-999.9060171350053,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Long term and current borrowings,1583.1409959263196,EUR m,PG_BS_CF_2025_eng.xls
+2025,CF,Final Net Debt (+) Net Cash (-),583.2349787913143,EUR m,PG_BS_CF_2025_eng.xls
+9M2026,PL,Revenue,4644.683516101077,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,In-house work on non-current assets and other income,171.62073497231194,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Materials used and other supplies and other operating expenses,-1874.1350185925628,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Staff Costs,-2291.928124375335,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Other gains or losses on non-current assets and other results,7.1843873892219605,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Gross Operating Result (EBITDA),657.4254954947125,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Depreciation and amortisation charge,-203.81360448675,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Operating Result (EBIT),453.6118910079625,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,EBIT Margin,0.0976626048761965,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Financial Loss,36.95634475944677,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Result of companies accounted for using the equity method,-2.4320083,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Profit (Loss) before tax,488.1362274674093,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Income tax,-120.01637947527819,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Profit (Loss) for the year,368.1198479921311,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Profit (Loss) attributable to non-controlling interests,-12.655056010000001,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Profit (Loss) attributable to the Parent,355.4647919821311,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,PL,Net Profit Recurrent,0.0,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,"Property, plant and equipment",1360.2023965760145,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Property investments,9.86093960382721,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Assets for the rigth of use,151.828,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Goodwill,1375.28454896,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Other Intangible assets,484.89117021863876,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Investments using the equity method and other non-current financial assets,1502.4907375086232,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Deferred tax assets,49.76964340064441,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Total non-current assets,4934.327436267748,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Assets held for sale,167.23932005,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Operating current assets,3832.432464395017,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Other current assets,717.3541943039046,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Cash and cash equivalents,2611.682808893216,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Total current assets,7328.708787642138,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,TOTAL ASSETS,12263.036223909887,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Share Capital and Reserves,2181.7585128397113,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Treasury shares,-92.02325942,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Equity attributable to parent company,2089.735253419711,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Non-controlling interests,297.68951508,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,TOTAL EQUITY,2387.4247684997113,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Provisions for contingencies and charges,65.46052233169165,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,1273.4674776900001,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Other non-current financial liabilities,4524.2280838827155,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Subsidies,54.92753336999999,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Other non-current liabilities,1.05604963062149,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Deferred tax liabilities,13.55785710180682,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Total Non-current liabilities,5932.697524006835,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Liabilities classified as held for sale,66.05020802,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,167.63664640165592,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Other current financial liabilities,558.2759659369871,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Operating current liabilities,2449.7670410214555,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Other current liabilities,701.1838425355081,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Total Current liabilities,3942.9137039156067,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,TOTAL EQUITY AND LIABILITIES,12263.035996422153,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Current bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,167.63664640165592,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Bank borrowings and financial liabilities relating to issues of debt instruments and other marketable securities,1273.4674776900001,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Gross financial debt,1441.104124091656,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Cash and cash equivalents,-2611.682808893216,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Net Debt before transfer to held-for-sale,-1170.57868480156,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Effective transfer to held-for-sale,-21.614623355685353,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,BS,Total Group Net Debt,-1192.1933081572454,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Profit Before Tax,488.1362274674107,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,- Depreciation and amortization charge,203.81360448675,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,"- Provisions, capital grants and others",10.517,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,- Result of companies accounted for using the equity method,2.432,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,- Financial loss,-36.956,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Dividends received,0.150004,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Profit (Loss) from operations before changes in working capital,668.0928359541607,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Changes in trade receivables and other items,1441.9237405154033,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Changes in inventories,-399.691,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Changes in trade payables and other items,454.75447748584,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Cash flows from operating activities,1496.9872180012433,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Tangible (net),-310.7106498187162,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Intangible (net),-63.327899962670756,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Capex,-374.03854978138696,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Interest paid and received,-10.304610149770713,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Other financial liabilities variation,-31.08874,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Income tax paid,-57.913,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Free Cash Flow,1691.7351540242462,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Changes in other financial assets,0.0,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Financial investments/divestments,166.02574474,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Dividends paid by companies to non-controlling shareholders,-0.232437,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Dividends of the parent company,-52.548,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Shareholders contributions,0.0,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Changes in treasury shares,-17.454273020950794,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Cash-flow provided/(used) in the period,1787.5261887432955,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Initial Net Debt,583.2349787913143,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Cash-flow provided/(used) in the period,-1787.5261887432955,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Foreign exchange differences and variation with no impact in cash,12.09790179473589,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Final Net Debt,-1192.1933081572454,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Cash & cash equivalents at the beginning of the period,-976.1916499216089,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Foreign exchange differences,-13.428571414266749,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Increase (decrease) in borrowings,143.84897783027006,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Net change in cash and cash equivalents,-1787.5261887432955,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Ending balance of cash and cash equivalents,-2633.2974322489013,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Long term and current borrowings,1441.1041240916559,EUR m,PG_BS_CF_9M26_eng.xls
+9M2026,CF,Final Net Debt (+) Net Cash (-),-1192.1933081572454,EUR m,PG_BS_CF_9M26_eng.xls
