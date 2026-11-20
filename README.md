@@ -2,6 +2,8 @@
 
 > 🚧 Work in progress
 
+**Target company:** Indra Sistemas (BME: IDR), Spain's leading defence & technology group. Chosen because its value hinges on uncertain, structurally rich drivers (order backlog conversion, defence spending cycle, working-capital swings from customer advances), which makes a stochastic DCF especially informative.
+
 A discounted cash flow (DCF) valuation of an IBEX 35 company, extended with a **stochastic layer**: value drivers are modelled as dependent random variables and propagated through Monte Carlo simulation, producing a **distribution** of the intrinsic value per share instead of a single price target.
 
 ## Problem
